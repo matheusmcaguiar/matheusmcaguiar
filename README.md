@@ -1,49 +1,23 @@
 # Matheus Aguiar
 
-**Linux Sysadmin | Infrastructure & Automation Specialist | DevOps**  
-*Especialista em administração de sistemas Linux, automação de infraestrutura, containers e arquitetura de sistemas assíncronos.*
+**Linux Sysadmin | Infrastructure & Automation Specialist**
 
----
+### Olá, eu sou o Matheus Aguiar 👋
 
-## 🛠️ Engenharia de Infraestrutura & Portfólio (MVP)
+Profissional de Engenharia de Infraestrutura e Automação focado em construir ambientes Linux resilientes, idempotentes e seguros. Possuo uma base sólida de 7 anos de experiência prática na administração de sistemas de missão crítica no setor financeiro, combinada com uma forte capacidade analítica e de documentação técnica estruturada adquirida através da pós-graduação (Mestrado/UFRGS).
 
-### [Automação de Provisionamento KVM/Libvirt via Cloud-init](https://github.com/matheusmcaguiar/kvm-cloudinit-automation)
-* **Descrição:** Desenvolvimento de arquitetura madura e segura para provisionamento sequencial e automatizado de máquinas virtuais Linux utilizando KVM/Libvirt no Debian/Ubuntu.
-* **Stack Tecnológica:** Bash Avançado (Shell Script), KVM/Libvirt, QEMU, Cloud-init, `virt-sysprep`, `envsubst`, `openssl`.
-* **Destaques Técnicos:** Implementação de *Linked Clones* para otimização de storage, isolamento de credenciais em tempo de execução via criptografia OpenSSL (com limpeza imediata de variáveis em memória via `unset`), purificação completa de templates, tratamento preventivo de timeout estendido para atualizações de pacotes e geração automatizada de inventário dinâmico de rede.
+Atualmente, dedico meu tempo à pesquisa, arquitetura e desenvolvimento de laboratórios independentes de engenharia de plataforma, aplicando conceitos modernos de cultura DevOps, automação de infraestrutura local e nuvem.
 
----
+### 🛠️ Stack Tecnológica & Competências
 
-## 💻 Hard Skills & Proficiência Técnica
+* **Sistemas Operacionais & Segurança:** Administração Avançada de Linux (RHEL, Debian), Hardening de SO, Shell Scripting Avançado (Bash) e gerenciamento seguro de credenciais em memória (SecOps).
+* **Virtualização & Provedores:** KVM/Libvirt, Cloud-init, criação de templates eficientes (virt-sysprep) e gerenciamento de storage via Linked Clones (QCOW2).
+* **Containers & Orquestração:** Docker, Docker Compose, Docker Swarm local (arquitetura de clusters multi-node com gerência de tokens nativa) e Insecure Registries locais.
+* **Gerência de Configuração:** Ansible (desenvolvimento de Roles modulares, inventários dinâmicos via Python, manipulação de fatos do sistema e tratamento de erros).
 
-* **Sistemas Operacionais:** Linux  e Shell Script Avançado, Systemd, LVM.
-* **Virtualização & Containers:** KVM, QEMU, Libvirt, Cloud-init, Linked Clones, Imagens de Sistema (`virt-sysprep`), Docker (Orquestração e isolamento de ambientes).
-* **Serviços & Ferramentas:** OpenSSL (com uso prático em scripts), LAMP Stack, Rotinas de Backup/Restore, Monitoramento básico de logs.
+### 📁 Projetos em Destaque
 
----
+* **[kvm-cloudinit-automation](https://github.com/matheusmcaguiar/kvm-cloudinit-automation):** Solução completa de Infraestrutura como Código (IaC) local para provisionamento automatizado e efêmero de laboratórios virtuais utilizando Bash e Cloud-init.
+* **ansible-docker-swarm-cluster (Em progresso):** Automação modular com Ansible para implantação de um ecossistema completo de microsserviços, registro privado e stack de monitoramento em cima da infraestrutura do Projeto 1.
 
-## 📊 Vivência em Infraestrutura de TI
-
-**Analista de TI / Sistemas Linux**  
-* **Contexto de Atuação:** Sustentação e engenharia de infraestrutura de servidores em ambiente de missão crítica e alta disponibilidade (Setor Bancário).
-* **Entregas de Missão Crítica:** Atuação direta no ecossistema de produção, garantindo a conformidade operacional, mitigação de riscos e o cumprimento rigoroso de SLAs estabelecidos.
-* **Sustentação Sysadmin:** Administração avançada de servidores Linux, configuração de Systemd, volumes lógicos (LVM) e gerência de pacotes/serviços de infraestrutura.
-* **Automação e Resiliência:** Desenvolvimento e manutenção de Shell Scripts avançados para automação de hardware, atualização de firmware e orquestração de rotinas complexas de backup/restore e recuperação de desastres, reduzindo o tempo de inatividade operacional e otimizando as janelas de manutenção de infraestrutura.
-
----
-
-## 📚 Formação Acadêmica & Base Analítica
-
-* **Mestrado em Sociologia** – Universidade Federal do Rio Grande do Sul (2004)
-* **Bacharelado em Ciências Sociais** – Universidade Federal do Rio Grande do Sul (2000)
-* *Diferencial Analítico:* Sólida base metodológica em pesquisa, estruturação de dados qualitativos/quantitativos, mitigação de riscos operacionais e documentação técnica altamente detalhada.
-
----
-
-## 🎯 Diretrizes de Trabalho & Contato
-
-* **Modelo de Atuação:** 100% Remoto. Preferência por projetos estruturados e dinâmicas assíncronas focadas em entregas.
-* **Fluxo de Comunicação:** Alinhado com a cultura DevOps — focado em documentação técnica, abertura de tickets, gerenciamento de issues e revisões via Pull Requests.
-* **Contato Técnico:** [matheus.mc.aguiar@gmail.com](mailto:matheus.mc.aguiar@gmail.com)
-* **Perfil Profissional:** [linkedin:matheusmcaguiar](https://linkedin.com/in/matheusmcaguiar)
-
+📫 Como me encontrar: matheus.mc.aguiar@gmail.com
