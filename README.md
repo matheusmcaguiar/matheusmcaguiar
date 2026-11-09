@@ -20,4 +20,10 @@ Atualmente, dedico meu tempo à pesquisa, arquitetura e desenvolvimento de labor
 * **[kvm-cloudinit-automation](https://github.com/matheusmcaguiar/kvm-cloudinit-automation):** Solução completa de Infraestrutura como Código (IaC) local para provisionamento automatizado e efêmero de laboratórios virtuais utilizando Bash e Cloud-init.
 * **ansible-docker-swarm-cluster (Em progresso):** Automação modular com Ansible para implantação de um ecossistema completo de microsserviços, registro privado e stack de monitoramento em cima da infraestrutura do Projeto 1.
 
-📫 Como me encontrar: matheus.mc.aguiar@gmail.com
+### 🌐 Idiomas
+- **Português:** Nativo.
+- **Inglês:** Fluente / C2 Proficient — Certificado pelo [EF SET](https://cert.efset.org/en/ACeoiT).
+
+### 📫 Como me encontrar:
+- 📧 **E-mail:** matheus.mc.aguiar@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/matheusmcaguiar](https://www.linkedin.com/in/matheusmcaguiar/)
