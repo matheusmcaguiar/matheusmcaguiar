@@ -22,7 +22,8 @@ Atualmente, dedico meu tempo à pesquisa, arquitetura e desenvolvimento de labor
 
 ### 🌐 Idiomas
 - **Português:** Nativo.
-- **Inglês:** Fluente / C2 Proficient — Certificado pelo [EF SET](https://cert.efset.org/en/ACeoiT).
+- **Inglês:** Fluente / C2 Proficient - Certificado pelo [EF SET](https://cert.efset.org/en/ACeoiT).
+- **Espanhol:** Fluente / C2 - Avaliação Sprachcaffe.
 
 ### 📫 Como me encontrar:
 - 📧 **E-mail:** matheus.mc.aguiar@gmail.com
